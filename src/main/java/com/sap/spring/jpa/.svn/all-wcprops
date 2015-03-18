@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1660/spring-rest-service/src/main/java/com/sap/spring/jpa
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sandbox/!svn/ver/1660/spring-rest-service/src/main/java/com/sap/spring/jpa/Application.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sandbox/!svn/ver/1660/spring-rest-service/src/main/java/com/sap/spring/jpa/User.java
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sandbox/!svn/ver/1660/spring-rest-service/src/main/java/com/sap/spring/jpa/.gitignore
+END

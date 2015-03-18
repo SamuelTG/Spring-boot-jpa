@@ -1,0 +1,4 @@
+com\sap\spring\jpa\repo\UserRepo.class
+com\sap\spring\jpa\Application.class
+com\sap\spring\jpa\service\UserService.class
+com\sap\spring\jpa\User.class
